@@ -2,7 +2,7 @@
 Number to roman letter convertor with front-end features. Using online tutorials and documention to deploy a working convertor from number to roman numeral with a funky front-end page.
 
 # Lessons Learned
-Gaining more confidence in deploying JS through HTML. The code looked great until I add <form> so some work does need to happen in CSS.
+Gaining more confidence in deploying JS through HTML. The code looked great until I added form tags so some changes need to happen.
 
 # Potential Future Changes
 - I will definitely re-write the CSS in SASS - CSS is a little broken after implementing a <form> tag (to use with the 'reset' button) too late, as the CSS is long and repetative and would beniefit from being more reader friendly.
